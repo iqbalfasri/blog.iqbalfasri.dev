@@ -8,3 +8,5 @@ fields:
     required: true
   label: Title
   description: Title blog
+pages:
+- contents/test-content.md
